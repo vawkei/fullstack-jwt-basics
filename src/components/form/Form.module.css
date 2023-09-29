@@ -1,0 +1,29 @@
+.container{
+    
+    width: 60%;
+    max-width: 25rem;
+    background-color: #38015c;
+    color: white;
+    border-radius: 6px;
+}
+form{
+    padding: 2rem;
+}
+.control input{
+    margin-bottom: 1.5rem;
+    width: 100%;
+    padding: 0.25rem;
+    border-radius: 6px;
+    color: black;
+    font: inherit;
+}
+.action{
+    display: flex;
+    justify-content: center;
+}
+.action button{
+    background-color: #9f5ccc;
+    width: 100%;
+    padding: 0.5rem;
+    cursor: pointer;
+}

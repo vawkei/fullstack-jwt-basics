@@ -1,0 +1,14 @@
+.container {
+    margin: 6px auto;
+}
+.container h1,h2,h3,p{
+    color: black;
+}
+.container div{
+    margin-top: 3rem;
+}
+.content{
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+}
